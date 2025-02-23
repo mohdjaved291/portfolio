@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# TypeScript compiled files
+*.tsbuildinfo
+src/**/*.js
+src/**/*.js.map
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
