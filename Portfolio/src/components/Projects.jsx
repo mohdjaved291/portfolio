@@ -29,7 +29,7 @@ const Projects = () => {
             ].join('\n'),
             tech: ["TypeScript", "Express.js", "MongoDB", "JWT", "React", "React Query", "Resend"],
             githubUrl: "https://github.com/mohdjaved291/Mern-Authentication",
-            projectDemo: "https://mern-auth-frontend.onrender.com/",
+            projectDemo: "https://mern-authentication-il9y.onrender.com",
             imageUrl: "/images/Create-Account-Mern-Auth-App.png"
         }
     ];
